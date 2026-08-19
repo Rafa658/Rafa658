@@ -10,9 +10,9 @@ Brazil · LATAM · Open to remote international opportunities
 
 ## About me
 
-I am an Analytics Engineer who turns complex business questions into reliable, maintainable data products. I combine analytics engineering, data modeling, cloud infrastructure, and software engineering to build systems that are useful to the business and clear to the people who maintain them.
+I am a LATAM-based Analytics Engineer with 3+ years of experience who turns complex business questions into reliable, maintainable data products. I combine analytics engineering, data modeling, cloud infrastructure, and software engineering to build systems that are useful to the business and clear to the people who maintain them.
 
-I currently work at **Insider Store**, Brazil's leading online apparel retailer. I am open to remote international opportunities as an **Analytics Engineer** or **Data Engineer**.
+I currently work at **INSIDER Store**, Brazil's leading online apparel retailer. I am open to remote international opportunities as an **Analytics Engineer** or **Data Engineer**.
 
 ## Career highlights
 
@@ -37,11 +37,11 @@ I currently work at **Insider Store**, Brazil's leading online apparel retailer.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-## Selected projects
+## Highlighted projects
 
 ### [Tshark Streaming Ingestion](https://github.com/Rafa658/tshark-streaming-ingestion)
 
-A streaming pipeline that sends packet-capture data through MQTT into PostgreSQL and TimescaleDB. It combines Python ingestion with a memory-efficient Go worker, at-least-once delivery, bounded backpressure, Prometheus metrics, Grafana dashboards, and end-to-end validation.
+A streaming pipeline that sends packet-capture data through MQTT into PostgreSQL and TimescaleDB. It combines Python ingestion with a memory-efficient Go worker, at-least-once delivery, bounded backpressure, Prometheus metrics, Grafana dashboards, and end-to-end validation. Built using Spec-Driven Development (SDD).
 
 ### [Bruin Aviation Data Pipeline](https://github.com/Rafa658/bruin-data-pipeline)
 
@@ -53,7 +53,7 @@ Terraform infrastructure for a secure serverless API on Google Cloud. It provisi
 
 ## How I work
 
-🎯 **Business first:** I start with the decision or outcome the data product must support.
+🎯 **Business first:** I prioritize aligning requirements and goals with stakeholders before building the data product.
 
 🧱 **Maintainable by design:** I separate concerns, model domains clearly, and optimize for long-term ownership.
 
@@ -70,6 +70,6 @@ Terraform infrastructure for a secure serverless API on Google Cloud. It provisi
 
 ![Rafael's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafa658&theme=github)
 
-## Let's talk
+## Let's talk!
 
 I am open to remote international **Analytics Engineer** and **Data Engineer** roles. If you are building reliable data platforms or high-impact analytics products, [connect with me on LinkedIn](https://www.linkedin.com/in/rafael-silva-de-oliveira/).
