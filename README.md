@@ -14,14 +14,6 @@ I am a LATAM-based Analytics Engineer with 3+ years of experience who turns comp
 
 I currently work at **INSIDER Store**, Brazil's leading online apparel retailer. I am open to remote international opportunities as an **Analytics Engineer** or **Data Engineer**.
 
-## Career highlights
-
-💰 Led cost-reduction initiatives at Insider Store that delivered approximately **USD 4,000/month in Looker dashboard optimizations** and **USD 1,200/month in dbt pipeline efficiencies**.
-
-📊 Conducted cultural-fit analysis across hiring and turnover trends at **iFood**, Brazil's largest tech company, driving strategic discussions with HR leadership.
-
-🏗️ Refactored **three complete data domains spanning 90+ tables** across finance, supply chain, and logistics. Applied Kimball dimensional modeling and separated staging, intermediate, mart, and curated layers to improve discoverability and accelerate onboarding for business users and new hires.
-
 ## Main stack
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=database&logoColor=white)
@@ -37,6 +29,24 @@ I currently work at **INSIDER Store**, Brazil's leading online apparel retailer.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+## Career highlights
+
+💰 Led cost-reduction initiatives at Insider Store that delivered approximately **USD 4,000/month in Looker dashboard optimizations** and **USD 1,200/month in dbt pipeline efficiencies**.
+
+📊 Conducted cultural-fit analysis across hiring and turnover trends at **iFood**, Brazil's largest tech company, driving strategic discussions with HR leadership.
+
+🏗️ Refactored **three complete data domains spanning 90+ tables** across finance, supply chain, and logistics. Applied Kimball dimensional modeling and separated staging, intermediate, mart, and curated layers to improve discoverability and accelerate onboarding for business users and new hires.
+
+## How I work
+
+🎯 **Business first:** I prioritize aligning requirements and goals with stakeholders before building the data product.
+
+🧱 **Maintainable by design:** I separate concerns, model domains clearly, and optimize for long-term ownership.
+
+📝 **Documented and testable:** I treat documentation, validation, and observability as part of the product.
+
+🤝 **Collaborative:** I work closely with business partners and engineers to turn shared context into dependable solutions.
+
 ## Highlighted projects
 
 ### [Tshark Streaming Ingestion](https://github.com/Rafa658/tshark-streaming-ingestion)
@@ -50,16 +60,6 @@ A production-oriented analytics pipeline for aviation performance data using Bru
 ### [GCP Serverless API Infrastructure](https://github.com/Rafa658/gcp-api-terraform)
 
 Terraform infrastructure for a secure serverless API on Google Cloud. It provisions private networking, Cloud SQL for PostgreSQL, Secret Manager, Artifact Registry, least-privilege IAM, and Cloud Run.
-
-## How I work
-
-🎯 **Business first:** I prioritize aligning requirements and goals with stakeholders before building the data product.
-
-🧱 **Maintainable by design:** I separate concerns, model domains clearly, and optimize for long-term ownership.
-
-📝 **Documented and testable:** I treat documentation, validation, and observability as part of the product.
-
-🤝 **Collaborative:** I work closely with business partners and engineers to turn shared context into dependable solutions.
 
 ## Languages & education
 
