@@ -67,12 +67,12 @@ Terraform infrastructure for a secure serverless API on Google Cloud. It provisi
   <img src="./dbt_badge.png" alt="dbt Certified Developer badge" width="160">
 </a>
 
-[**dbt Certified Developer**](https://credentials.getdbt.com/6667819c-b898-4555-ad3a-5aff1d7a4d16#acc.iAJEdZIh)
+[**dbt Certified Developer**](https://credentials.getdbt.com/6667819c-b898-4555-ad3a-5aff1d7a4d16#acc.iAJEdZIh), issued September 1st, 2026
 
 ## Languages & education
 
 - **B.Sc. in Mechanical Engineering** — Aeronautics Institute of Technology (ITA), Class of 2025
-- **English — C1 proficiency** — TOEFL iBT 96/120, issued May 31, 2025
+- **English — C1 proficiency** — TOEFL iBT 96/120, issued May 31, 2025, appointment 5884305251402590
 
 ## GitHub activity
 
