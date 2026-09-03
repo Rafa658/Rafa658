@@ -61,6 +61,14 @@ A production-oriented analytics pipeline for aviation performance data using Bru
 
 Terraform infrastructure for a secure serverless API on Google Cloud. It provisions private networking, Cloud SQL for PostgreSQL, Secret Manager, Artifact Registry, least-privilege IAM, and Cloud Run.
 
+## Certifications
+
+<a href="https://credentials.getdbt.com/" aria-label="dbt Certified Developer credential">
+  <img src="./dbt_badge.png" alt="dbt Certified Developer badge" width="160">
+</a>
+
+**dbt Certified Developer**
+
 ## Languages & education
 
 - **B.Sc. in Mechanical Engineering** — Aeronautics Institute of Technology (ITA), Class of 2025
