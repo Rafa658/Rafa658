@@ -67,7 +67,7 @@ Terraform infrastructure for a secure serverless API on Google Cloud. It provisi
   <img src="./dbt_badge.png" alt="dbt Certified Developer badge" width="160">
 </a>
 
-**dbt Certified Developer**
+[**dbt Certified Developer**](https://credentials.getdbt.com/6667819c-b898-4555-ad3a-5aff1d7a4d16#acc.iAJEdZIh)
 
 ## Languages & education
 
